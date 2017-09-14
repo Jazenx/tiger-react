@@ -1,0 +1,19 @@
+{
+  "name": "tiger-react",
+  "version": "1.0.0",
+  "description": "my first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-ZC/tiger-react.git"
+  },
+  "author": "jason.zhour@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-ZC/tiger-react/issues"
+  },
+  "homepage": "https://github.com/Jason-ZC/tiger-react#readme"
+}
